@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
-  <a href="URL_DO_SEU_PORTFOLIO" style="color: var(--link-color, blue);">
+  <a href="https://ronaldocipriiano.github.io/portfolio/" style="color: var(--link-color, blue);">
     <img src="https://img.shields.io/badge/Portfolio-%F0%9F%92%BB-9cf" alt="Portfolio">
   </a>
   
