@@ -4,6 +4,8 @@
   Sou um Desenvolvedor FullStack!
 </p>
 
+<hr>
+
 ## Sobre Mim
 <p align="justify">
 Minha jornada me levou à Trybe, onde aprimorei minhas habilidades técnicas e me tornei um desenvolvedor FullStack em constante evolução. Dominando os módulos de Fundamentos de Programação, Desenvolvimento Front-End e Back-End, adquiri proficiência em uma ampla gama de tecnologias essenciais para o desenvolvimento web.
