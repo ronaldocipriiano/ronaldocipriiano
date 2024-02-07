@@ -1,7 +1,16 @@
 # Olá, eu sou Ronaldo Cipriano! 👋
 
 <p align="center">
-  Sou um Desenvolvedor Full Stack!
+  Sou um Desenvolvedor FullStack!
+</p>
+
+## Sobre Mim
+<p align="justify">
+Minha jornada me levou à Trybe, onde aprimorei minhas habilidades técnicas e me tornei um desenvolvedor FullStack em constante evolução. Dominando os módulos de Fundamentos de Programação, Desenvolvimento Front-End e Back-End, adquiri proficiência em uma ampla gama de tecnologias essenciais para o desenvolvimento web.
+</p>
+
+<p align="justify">
+Além do domínio técnico, valorizo a importância das soft skills no ambiente de trabalho. Estou constantemente aprimorando minhas habilidades interpessoais para complementar minha experiência técnica, buscando sempre o equilíbrio entre as competências técnicas e as habilidades de comunicação.
 </p>
 
 <hr>
