@@ -1,26 +1,17 @@
-## Ronaldo Cipriano
+# Olá, eu sou Ronaldo Cipriano! 👋
 
 <p align="center">
-  I'm FullStack Developer!
+  Sou um Desenvolvedor Full Stack!
 </p>
 
-<hr align="center" style="border: 1px solid var(--border-color, #ccc);">
+<hr>
 
-<div align="center" style="background-color: var(--bg-color, white);">
-  <a href="https://www.linkedin.com/in/ronaldo-cipriano/" style="color: var(--link-color, blue);">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  
-  <a href="https://ronaldocipriiano.github.io/portfolio/" style="color: var(--link-color, blue);">
-    <img src="https://img.shields.io/badge/Portfolio-%F0%9F%92%BB-9cf" alt="Portfolio">
-  </a>
-  
-  <a href="mailto:ronaldolopes14@gmail.com" style="color: var(--link-color, blue);">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
+## Contato
+- 📧 [Email](mailto:ronaldolopes14@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ronaldo-cipriano/)
+- 🌐 [Portfólio](https://ronaldocipriiano.github.io/portfolio/)
 
-<hr style="border: 1px solid var(--border-color, #ccc);">
+<hr>
 
 <div align="center">
 <a href="https://github.com/ronaldocipriiano">
@@ -28,28 +19,27 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldocipriiano&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
-<hr style="border: 1px solid var(--border-color, #ccc);">
-  
-<div align="center"  style="background-color: var(--bg-color, white);">
-  <p>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  </p>
-</div>
+<hr>
 
-<hr style="border: 1px solid var(--border-color, #ccc);">
+## Tecnologias e Ferramentas
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+  <img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
 
-<p align="center" style="color: var(--text-color-secondary, gray);">
-  Thanks for visiting!
+<hr>
+
+<p align="center" style="color: gray;">
+  Obrigado por visitar o meu perfil!
 </p>
