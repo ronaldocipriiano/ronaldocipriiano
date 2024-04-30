@@ -8,7 +8,7 @@
 
 ## Sobre Mim
 <p align="justify">
-Minha jornada me levou à Trybe, onde aprimorei minhas habilidades técnicas e me tornei um desenvolvedor FullStack em constante evolução. Dominando os módulos de Fundamentos de Programação, Desenvolvimento Front-End e Back-End, adquiri proficiência em uma ampla gama de tecnologias essenciais para o desenvolvimento web.
+Com formação em Tecnologo em Logística pela Universidade Federal do Tocantins e um MBA em Gestão da Engenharia de Produção e Operações Logísticas, atuei nos últimos 4 anos como Supervisor de Suporte Técnico em uma empresa de tecnologia. Recentemente, completei minha jornada de formação na Trybe, tornando-me um Desenvolvedor FullStack, dominando os módulos de Fundamentos, FrontEnd, BackEnd, Ciências da Computação e a eletiva de Python. Mergulhei profundamente no vasto universo da programação, explorando novas tecnologias e aprimorando minhas habilidades. Estou pronto para abraçar novas oportunidades e desafios como Desenvolvedor FullStack, aplicando minha paixão pela tecnologia e meu compromisso com a excelência.
 </p>
 
 <p align="justify">
@@ -20,7 +20,7 @@ Além do domínio técnico, valorizo a importância das soft skills no ambiente 
 ## Contato
 - 📧 [Email](mailto:ronaldolopes14@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ronaldo-cipriano/)
-- 🌐 [Portfólio](https://ronaldocipriiano.github.io/portfolio/)
+- 🌐 [Portfólio](https://ronaldocipriano.com.br/)
 
 <hr>
 
@@ -47,6 +47,9 @@ Além do domínio técnico, valorizo a importância das soft skills no ambiente 
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
 </p>
 
 <hr>
